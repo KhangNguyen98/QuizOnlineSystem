@@ -1,0 +1,10 @@
+login
+logout
+defaultUserPage
+register
+signIn
+signUp
+chooseSubject
+takeAQuiz
+submit
+searchHistory

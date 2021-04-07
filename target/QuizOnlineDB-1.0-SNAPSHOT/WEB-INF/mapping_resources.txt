@@ -1,0 +1,5 @@
+searchQuestion=search.jsp
+signIn=login.jsp
+chooseSubject=choose_subject.jsp
+signUp=register.jsp
+createQuestion=question_create_form.jsp

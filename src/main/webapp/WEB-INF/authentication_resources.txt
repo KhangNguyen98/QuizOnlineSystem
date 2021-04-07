@@ -1,0 +1,11 @@
+defaultUserPage
+logout
+login
+questionCreatePage
+questionCreate
+questionDelete
+questionUpdate
+search
+takeAQuiz
+submit
+searchHistory
